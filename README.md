@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cheetah1212
+- 👋 Hi, I’m Krishanu
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
