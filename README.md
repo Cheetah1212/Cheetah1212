@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishanu
+- 👋 Hi
 - 👀 I’m interested in Reverse Engineering
 - 📫 How to reach me krishanuborah758@gmail.com
 
